@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main (){
+  int a = 0;
+  int b = -20;
+  int sum = b + a;
+  cout << sum << endl;
+  return 0;
+}
