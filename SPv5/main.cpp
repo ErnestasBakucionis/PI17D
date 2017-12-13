@@ -3,7 +3,6 @@
 #include <string>
 #include <algorithm>
 #include <cctype>
-#include <ctime>
 #include <locale>
 using namespace std;
 
